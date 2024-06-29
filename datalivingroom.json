@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Erica Upholstered 5 Seater Sofa Set",
+      "image": "images/liv_room/liv_room_1.png",
+      "price": 1097,
+      "oldPrice": 1737,
+      "discount": 37,
+      "newLaunch": false
+    },
+    {
+        "name": "Daisy Upholstered L Shaped Sofa in Blue Color",
+        "image": "images/liv_room/liv_room_2.png",
+        "price": 1169,
+        "oldPrice": 1599,
+        "discount": 27,
+        "newLaunch": false
+      },
+      {
+        "name": "Hugo Twin Single Seater with Coffee Table",
+        "image": "images/liv_room/liv_room_3.png",
+        "price": 717,
+        "oldPrice": 957,
+        "discount": 25,
+        "newLaunch": false
+      },
+      {
+        "name": "Belle Solid Wood Coffee Table with 4 Stools",
+        "image": "images/liv_room/liv_room_4.png",
+        "price": 593,
+        "oldPrice": 869,
+        "discount": 32,
+        "newLaunch": false
+      },
+      {
+        "name": "Hugo Upholstered Single Seater Seater Sofa in Blue Color",
+        "image": "images/liv_room/liv_room_5.png",
+        "price": 717,
+        "oldPrice": 957,
+        "discount": 25,
+        "newLaunch": false
+      },
+      {
+        "name": "Alexa Solid Wood Coffee Table with 4 Stools",
+        "image": "images/liv_room/liv_room_6.png",
+        "price": 665,
+        "oldPrice": 965,
+        "discount": 31,
+        "newLaunch": false
+      },
+      {
+        "name": "Hugo Upholstered Single Seater Sofa in Beige Color",
+        "image": "images/liv_room/liv_room_7.png",
+        "price": 259,
+        "oldPrice": 349,
+        "discount": 26,
+        "newLaunch": false
+      },
+      {
+        "name": "Erica Upholstered 3 Seater Sofa in Charcoal Color",
+        "image": "images/liv_room/liv_room_8.png",
+        "price": 599,
+        "oldPrice": 899,
+        "discount": 33,
+        "newLaunch": false
+      },
+      {
+        "name": "Hugo Twin Single Seater with Coffee Table",
+        "image": "images/liv_room/liv_room_9.png",
+        "price": 717,
+        "oldPrice": 957,
+        "discount": 25,
+        "newLaunch": false
+      },
+      {
+        "name": "Hugo Solid Wood Sofa Cum Bed with 4 Inches Mattress",
+        "image": "images/liv_room/liv_room_10.png",
+        "price": 598,
+        "oldPrice": 928,
+        "discount": 36,
+        "newLaunch": false
+      },
+      {
+        "name": "Hugo Solid Wood Sofa Cum Bed",
+        "image": "images/liv_room/liv_room_11.png",
+        "price": 449,
+        "oldPrice": 629,
+        "discount": 29,
+        "newLaunch": false
+      },
+      {
+        "name": "Cosmos L Shaped Sofa in Grey Color",
+        "image": "images/liv_room/liv_room_12.png",
+        "price": 1239,
+        "oldPrice": 1689,
+        "discount": 27,
+        "newLaunch": false
+      }
+  ]

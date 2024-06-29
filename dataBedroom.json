@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Prism Solid Wood Queen Size Double Bed",
+      "image":"images/BedRoom/image1.webp",
+      "price": 599,
+      "oldPrice": 849,
+      "discount": 29,
+      "newLaunch": true
+    },
+    {
+        "name": "Alexa Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image2.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Siesta Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image3.webp",
+        "price": 649,
+        "oldPrice": 949,
+        "discount": 32,
+        "newLaunch": true
+      },
+      {
+        "name": "Mosaic Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image4.webp",
+        "price": 699,
+        "oldPrice": 949,
+        "discount": 32,
+        "newLaunch": true
+      },
+      {
+        "name": "Soho Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image5.webp",
+        "price": 819,
+        "oldPrice": 999,
+        "discount": 18,
+        "newLaunch": true
+      },
+      {
+        "name": "Belle Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image6.webp",
+        "price": 649,
+        "oldPrice": 849,
+        "discount": 24,
+        "newLaunch": true
+      },
+      {
+        "name": "Jade Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image7.webp",
+        "price": 619,
+        "oldPrice": 749,
+        "discount": 17,
+        "newLaunch": true
+      },
+      {
+        "name": "Chloe Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image8.webp",
+        "price": 699,
+        "oldPrice": 1149,
+        "discount": 39,
+        "newLaunch": true
+      },
+      {
+        "name": "Vesta Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image9.webp",
+        "price": 799,
+        "oldPrice": 999,
+        "discount": 20,
+        "newLaunch": true
+      },
+      {
+        "name": "Elara Solid Wood Queen Size Double Bed",
+        "image": "images/BedRoom/image10.webp",
+        "price": 900,
+        "oldPrice": 1100,
+        "discount": 18,
+        "newLaunch": true
+      },
+      {
+        "name": "Alexa Solid Wood Single Bed",
+        "image": "images/BedRoom/image11.webp",
+        "price": 429,
+        "oldPrice": 509,
+        "discount": 16,
+        "newLaunch": true
+      },
+      { 
+        "name": "Belle Solid Wood Single Bed",
+        "image": "images/BedRoom/image12.webp",
+        "price": 489,
+        "oldPrice": 559,
+        "discount": 18,
+        "newLaunch": true
+      }
+  ]

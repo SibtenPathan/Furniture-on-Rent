@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Daisy 4 Seater Dining Table Grey colour",
+      "image":"images/DiningRoom/image1.webp",
+      "price": 835,
+      "oldPrice": 1145,
+      "discount": 27,
+      "newLaunch": true
+    },
+    {
+        "name": "Alexa 4 Seater Dining Table with Wooden Chairs.",
+        "image": "images/DiningRoom/image2.webp",
+        "price": 835,
+        "oldPrice": 1159,
+        "discount": 30,
+        "newLaunch": true
+      },
+      {
+        "name": "Alexa 6 Seater Dining Table with Wooden Chairs.",
+        "image": "images/DiningRoom/image3.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image4.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image5.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image6.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image7.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image8.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image9.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image10.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image11.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "images/DiningRoom/image12.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": true
+      }
+  ]

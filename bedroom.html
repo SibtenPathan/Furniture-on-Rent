@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bedroom</title>
+  <link rel="stylesheet" href="styles.css">
+
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
+</head>
+
+<body class="bg-gray-100">
+
+  <nav class="bg-white border-gray-200 dark:bg-gray-900">
+    <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <a href="index.html" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <img src="https://flowbite.com/docs/images/logo.svg" class="h-8" alt="Flowbite Logo" />
+        <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Furniture</span>
+      </a>
+      <button data-collapse-toggle="navbar-default" type="button"
+        class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+        aria-controls="navbar-default" aria-expanded="false">
+        <span class="sr-only">Open main menu</span>
+        <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+          <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M1 1h15M1 7h15M1 13h15" />
+        </svg>
+      </button>
+      <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+        <ul
+          class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
+              aria-current="page">Home</a>
+          </li>
+          <li>
+            <a href="about.html"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Pricing</a>
+          </li>
+          <li>
+            <a href="#"
+              class="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container mx-auto p-4">
+    <div class="flex justify-between items-center mb-4">
+      <ul class="flex space-x-4">
+        <li>
+          <a href="/" class="flex items-center space-x-2 text-gray-600">
+            <p class="cursor-pointer">Home</p>
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" color="#71717A"
+              height="12" width="12" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M294.1 256L167 129c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.3 34 0L345 239c9.1 9.1 9.3 23.7.7 33.1L201.1 417c-4.7 4.7-10.9 7-17 7s-12.3-2.3-17-7c-9.4-9.4-9.4-24.6 0-33.9l127-127.1z">
+              </path>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <a href="/bangalore/home-furniture-rental" class="flex items-center space-x-2 text-gray-600">
+            <p class="cursor-pointer">Home Furniture</p>
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" color="#71717A"
+              height="12" width="12" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M294.1 256L167 129c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.3 34 0L345 239c9.1 9.1 9.3 23.7.7 33.1L201.1 417c-4.7 4.7-10.9 7-17 7s-12.3-2.3-17-7c-9.4-9.4-9.4-24.6 0-33.9l127-127.1z">
+              </path>
+            </svg>
+          </a>
+        </li>
+        <li>
+          <p class="font-medium text-gray-600">Bed Room</p>
+        </li>
+      </ul>
+    </div>
+    <h1 class="text-xl font-semibold mb-4">Bedroom furniture on rent</h1>
+    <div class="flex flex-wrap mb-4">
+      <a href="" class="mr-3 md:mr-0">
+        <div class="flex flex-col items-center p-2 border border-gray-200 rounded">
+          <img src="https://d3juy0zp6vqec8.cloudfront.net/images/icons/all-subcategoryname.svg" style="width: 7rem;"
+            class=" mb-2" alt="All" loading="lazy">
+          <p class="text-gray-600">All</p>
+        </div>
+      </a>
+      <a href="#" class="mr-3 md:mr-0">
+        <div class="flex flex-col items-center p-2 border border-gray-200 rounded bg-gray-300">
+          <img src="https://d3juy0zp6vqec8.cloudfront.net/images/icons/bedroom-active.svg" style="width: 7rem;"
+            class=" mb-2" alt="Bed Room" loading="lazy">
+          <p class="text-gray-600">BedRoom</p>
+        </div>
+      </a>
+      <a href="livingroom.html" class="mr-3 md:mr-0">
+        <div class="flex flex-col items-center p-2 border border-gray-200 rounded">
+          <img src="https://d3juy0zp6vqec8.cloudfront.net/images/icons/living-room.svg" style="width: 7rem;"
+            class=" mb-2" alt="Living Room" loading="lazy">
+          <p class="text-gray-600">Living Room</p>
+        </div>
+      </a>
+      <a href="diningroom.html" class="mr-3 md:mr-0">
+        <div class="flex flex-col items-center p-2 border border-gray-200 rounded">
+          <img src="https://d3juy0zp6vqec8.cloudfront.net/images/icons/dining-room.svg" style="width: 7rem;"
+            class=" mb-2" alt="Dining Room" loading="lazy">
+          <p class="text-gray-600">Dining Room</p>
+        </div>
+      </a>
+      <a href="studyroom.html" class="mr-3 md:mr-0">
+        <div class="flex flex-col items-center p-2 border border-gray-200 rounded">
+          <img src="https://d3juy0zp6vqec8.cloudfront.net/images/icons/study-room.svg" style="width: 7rem;"
+            class=" mb-2" alt="Study Room" loading="lazy">
+          <p class="text-gray-600">Study Room</p>
+        </div>
+      </a>
+    </div>
+    <div class="border-t border-gray-200"></div>
+  </div>
+
+  <div class="container mx-auto p-4">
+    <div class="card-container grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6" id="card-container">
+      <!-- Cards will be dynamically added here -->
+    </div>
+  </div>
+  
+  <!-- Template for a single card -->
+  <template id="card-template">
+    <div class="relative p-4 bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-lg transform transition-transform hover:scale-105">
+      <img class="w-full h-auto rounded-md">
+      <div class="absolute top-2 left-2 bg-red-500 text-white px-2 py-1 text-xs rounded">NEW LAUNCH</div>
+      <h3 class="mt-4 text-lg font-semibold"></h3>
+      <div class="mt-2 flex items-center">
+        <span class="text-xl font-bold text-red-600"></span>
+        <span class="ml-2 text-gray-500 line-through"></span>
+      </div>
+      <div class="mt-2 text-green-600 font-medium"></div>
+    </div>
+  </template>
+  
+
+  <hr>
+  <footer class="text-gray-600 body-font bg-gray-200">
+      <div
+          class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+          <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left md:mt-0 mt-10">
+              <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+                  <i class="fa fa-phone-square" aria-hidden="true"></i>
+                  <span class="ml-3 text-xl">Need Help</span>
+              </a>
+              
+              <p class="mt-2 text-sm text-gray-500">+91 9978617480</p>
+          </div>
+          <div class="flex-grow flex flex-wrap md:pr-20 -mb-10 md:text-left text-center order-first">
+              
+              <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                  <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+                  <nav class="list-none mb-10">
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">All</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Home Furniture</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Appliances</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Workstations</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Combos</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Discount Deals</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Furniture Sale</a>
+                      </li>
+                  </nav>
+              </div>
+              <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                  <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">City Furniture</h2>
+                  <nav class="list-none mb-10">
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">About Us</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Refer a Friend</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">career</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Contact Us</a>
+                      </li>
+                  </nav>
+              </div>
+              <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                  <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Iformation</h2>
+                  <nav class="list-none mb-10">
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Blog</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">FAQ</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Sample Rental Agreement</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Offers</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Benefits</a>
+                      </li>
+                  </nav>
+              </div>
+              <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                  <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Resources</h2>
+                  <nav class="list-none mb-10">
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Privacy Policy</a>
+                      </li>
+                      <li>
+                          <a class="text-gray-600 hover:text-gray-800">Terms & Conditions</a>
+                      </li>
+                  </nav>
+              </div>
+          </div>
+      </div>
+      <div class="bg-gray-100">
+          <div class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+              <p class="text-gray-500 text-sm text-center sm:text-left">© 2024 
+                  <a href="https://twitter.com/SibtainPathan1" rel="noopener noreferrer" class="text-gray-600 ml-1"
+                      target="_blank">@SibtainPathan1</a>
+              </p>
+              <span class="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
+                  <a  class="text-gray-500">
+                      <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          class="w-5 h-5" viewBox="0 0 24 24">
+                          <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+                      </svg>
+                  </a>
+                  <a class="ml-3 text-gray-500">
+                      <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                          class="w-5 h-5" viewBox="0 0 24 24">
+                          <path
+                              d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z">
+                          </path>
+                      </svg>
+                  </a>
+                  <a class="ml-3 text-gray-500">
+                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                          stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                          <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                          <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+                      </svg>
+                  </a>
+                  <a class="ml-3 text-gray-500">
+                      <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                          stroke-width="0" class="w-5 h-5" viewBox="0 0 24 24">
+                          <path stroke="none"
+                              d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z">
+                          </path>
+                          <circle cx="4" cy="4" r="2" stroke="none"></circle>
+                      </svg>
+                  </a>
+              </span>
+          </div>
+      </div>
+  </footer>
+
+  <script src="bedroom.js"></script>
+</body>
+
+</html>

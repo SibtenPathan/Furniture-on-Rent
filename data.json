@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Prism Solid Wood Queen Size Double Bed",
+      "image": "images/",
+      "price": 599,
+      "oldPrice": 849,
+      "discount": 29,
+      "newLaunch": false
+    },
+    {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "https://d3juy0zp6vqec8.cloudfront.net/images/product/Prism Queen Bed 1-1719213922.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": false
+      },
+      {
+        "name": "Prism Solid Wood Queen Size Double Bed",
+        "image": "https://d3juy0zp6vqec8.cloudfront.net/images/product/Prism Queen Bed 1-1719213922.webp",
+        "price": 599,
+        "oldPrice": 849,
+        "discount": 29,
+        "newLaunch": false
+      }
+  ]
+  
